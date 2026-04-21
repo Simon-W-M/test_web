@@ -5,25 +5,36 @@ toc: true
 
 This is a Quarto website.
 
-# Hello world
+# Hello world and hello Suzie, Chris, Nenu and Marcus
 
-## We can add sub heads
+Can make a website to support our ways of working
 
+## We can add sub headings
+
+And this will translate into interactive headings
+
+
+# R Code
+
+We can also use this to run R and python code which will allow us to add graphs and tables if needed
 
 ```{r}
 summary(mtcars)
 ```
 
 
-# Second head
+# Third heading
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+## Sub heading
 
-```{r}
-1 + 1
-```
 
-# third head 
+# Next head 
 
-Wow look at this
+The formatting is all in quarto and so we can add additional interactive elements, tabsets, drops downs 
 
+::: {.callout-tip collapse="true" appearance="default" icon="true"}
+## Furhter information (click to expand)
+
+Code is save on github and update of the repo udates the website
+
+:::
