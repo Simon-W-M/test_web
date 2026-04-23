@@ -7,7 +7,7 @@ This is a Quarto website.
 
 # Hello world and hello Suzie, Chris, Nenu and Marcus
 
-Can make a website to support our ways of working
+Can make a website to support our ways of working.  We can add links etc
 
 ## We can add sub headings
 
@@ -35,6 +35,6 @@ The formatting is all in quarto and so we can add additional interactive element
 ::: {.callout-tip collapse="true" appearance="default" icon="true"}
 ## Furhter information (click to expand)
 
-Code is save on github and update of the repo udates the website
+Code is save on github and update of the repo updates the website
 
 :::
