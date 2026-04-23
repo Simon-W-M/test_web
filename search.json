@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "test_web",
     "section": "",
-    "text": "UPDATE!!!\nThis is a Quarto website."
+    "text": "This is a Quarto website.\nUpdated?"
   },
   {
     "objectID": "index.html#we-can-add-sub-headings",
@@ -25,6 +25,6 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "About this site - built in quarto\n\n1 + 1\n\n[1] 2"
   }
 ]
